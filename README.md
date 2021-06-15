@@ -19,8 +19,8 @@ This is an app that uses MediaPipe's [Hands](https://google.github.io/mediapipe/
 `Open an existing Android Studio project`.
 
 * From the `Open File or Project` window that appears, navigate to and select
- the `hand_detection` directory from wherever you
- cloned the TensorFlow Lite sample GitHub repo. Click `OK`.
+ the `mediapipe-demo-hand-detection` directory from wherever you
+ cloned the Supreme Tech sample GitHub repo. Click `OK`.
 
 * If it asks you to do a `Gradle Sync`, click `OK`.
 
