@@ -70,8 +70,8 @@ Downloading, extraction and placement in assets folder has been managed
  automatically by `download.gradle`.
 
 If you explicitly want to download the model, you can download it from here:
-* [Palm detection model](https://github.com/google/mediapipe/raw/master/mediapipe/modules/palm_detection/palm_detection.tflite)
-* [Hand landmark detection model](https://github.com/google/mediapipe/raw/master/mediapipe/modules/hand_landmark/hand_landmark.tflite) 
+* [Palm detection model](https://raw.githubusercontent.com/google/mediapipe/350fbb2100ad531bc110b93aaea23d96af5a5064/mediapipe/modules/palm_detection/palm_detection.tflite)
+* [Hand landmark detection model](https://raw.githubusercontent.com/google/mediapipe/350fbb2100ad531bc110b93aaea23d96af5a5064/mediapipe/modules/hand_landmark/hand_landmark.tflite) 
  
 ### Additional Note
 _Please do not delete the assets folder content_. If you explicitly deleted the
